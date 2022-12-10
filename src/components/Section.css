@@ -1,0 +1,21 @@
+.section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0.25rem 0;
+}
+
+.section-contents {
+    width: 90%;
+}
+
+.section-contents>div {
+    margin: 0.5rem 0;
+}

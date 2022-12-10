@@ -1,0 +1,13 @@
+.profile-picture-container {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    border: transparent;
+    margin: 1rem 0 0.5rem;
+}
+
+.profile-picture {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
